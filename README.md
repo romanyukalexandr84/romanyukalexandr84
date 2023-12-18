@@ -23,3 +23,4 @@ Stack:
 ![linux](https://img.shields.io/badge/linux-orange.svg?&style=for-the-badge&logo=linux&logoColor=white)
 ![git](https://img.shields.io/badge/git%20-purple.svg?&style=for-the-badge&logo=git&logoColor=white) 
 ![github](https://img.shields.io/badge/github%20-grey.svg?&style=for-the-badge&logo=github&logoColor=white) 
+![docker](https://img.shields.io/badge/docker-violet.svg?&style=for-the-badge&logo=docker&logoColor=white)
