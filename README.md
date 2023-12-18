@@ -1,4 +1,4 @@
-### Hi there 👋
+<!--### Hi there 👋-->
 
 <!--
 **romanyukalexandr84/romanyukalexandr84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,3 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Java developer, coder
+Stack:
+![java](https://img.shields.io/badge/java-red.svg?&style=for-the-badge&logo=java&logoColor=white)
+![mysql](https://img.shields.io/badge/mysql-blue.svg?&style=for-the-badge&logo=mysql&logoColor=white)
