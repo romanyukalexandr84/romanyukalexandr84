@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Java developer, coder
+
 Stack:
+
 ![java](https://img.shields.io/badge/java-red.svg?&style=for-the-badge&logo=java&logoColor=white)
 ![mysql](https://img.shields.io/badge/mysql-blue.svg?&style=for-the-badge&logo=mysql&logoColor=white)
+![linux](https://img.shields.io/badge/linux-orange.svg?&style=for-the-badge&logo=linux&logoColor=white)
