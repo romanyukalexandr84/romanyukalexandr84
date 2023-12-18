@@ -24,3 +24,5 @@ Stack:
 ![git](https://img.shields.io/badge/git%20-purple.svg?&style=for-the-badge&logo=git&logoColor=white) 
 ![github](https://img.shields.io/badge/github%20-grey.svg?&style=for-the-badge&logo=github&logoColor=white) 
 ![docker](https://img.shields.io/badge/docker-violet.svg?&style=for-the-badge&logo=docker&logoColor=white)
+![html](https://img.shields.io/badge/html%20-black.svg?&style=for-the-badge&logo=html5&logoColor=white)
+![css](https://img.shields.io/badge/css%20-green.svg?&style=for-the-badge&logo=css3&logoColor=white) 
