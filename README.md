@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ### Stack:
 
 ![java](https://img.shields.io/badge/java-red.svg?&style=for-the-badge&logo=java&logoColor=white)
-![spring](https://img.shields.io/badge/spring-ForestGreen.svg?&style=for-the-badge&logo=spring&logoColor=white)
+![spring](https://img.shields.io/badge/spring-darkgreen.svg?&style=for-the-badge&logo=spring&logoColor=white)
 ![mysql](https://img.shields.io/badge/mysql-blue.svg?&style=for-the-badge&logo=mysql&logoColor=white)
 ![linux](https://img.shields.io/badge/linux-orange.svg?&style=for-the-badge&logo=linux&logoColor=white)
 ![git](https://img.shields.io/badge/git%20-purple.svg?&style=for-the-badge&logo=git&logoColor=white) 
