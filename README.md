@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 
 ### Stack:
 
-![java](https://img.shields.io/badge/java-brown.svg?&style=for-the-badge&logo=java&logoColor=white)
-![spring](https://img.shields.io/badge/spring-green.svg?&style=for-the-badge&logo=spring&logoColor=white)
-![mysql](https://img.shields.io/badge/mysql-blue.svg?&style=for-the-badge&logo=mysql&logoColor=white)
+![java](https://img.shields.io/badge/java-red.svg?&style=for-the-badge&logo=java&logoColor=white)
+![spring](https://img.shields.io/badge/spring-blue.svg?&style=for-the-badge&logo=spring&logoColor=white)
+![mysql](https://img.shields.io/badge/mysql-green.svg?&style=for-the-badge&logo=mysql&logoColor=white)
 ![linux](https://img.shields.io/badge/linux-orange.svg?&style=for-the-badge&logo=linux&logoColor=white)
 ![git](https://img.shields.io/badge/git%20-purple.svg?&style=for-the-badge&logo=git&logoColor=white) 
 ![github](https://img.shields.io/badge/github%20-grey.svg?&style=for-the-badge&logo=github&logoColor=white) 
